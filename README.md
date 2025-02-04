@@ -45,7 +45,9 @@ Usage:
 Example Execution:
 
 Enter space separated integers (Ex: 1 2 3 4 5 6): 4 8 2 6 9 1
+
 ---Basic Statistics Calculator---
+
 1. Mean
 2. Median
 3. Variance
@@ -54,6 +56,7 @@ Enter space separated integers (Ex: 1 2 3 4 5 6): 4 8 2 6 9 1
 6. All the above operations
 7. Exit
 Enter the option to proceed: 1
+
 The mean of the array is: 5.0
 
 Code Explanation:
