@@ -4,6 +4,8 @@ Project Description:
 
 The Basic Statistics Calculator is a Python program that allows users to perform fundamental statistical operations on a given dataset. The program provides an interactive menu-driven interface to calculate essential statistical measures such as Mean, Median, Variance, Standard Deviation, and Sorting the dataset. It is implemented using the NumPy library for efficient numerical computations.
 
+<hr/>
+
 Features:
 
 * Compute Mean (Average value of the dataset)
@@ -20,15 +22,21 @@ Features:
 
 * Exit option to terminate the program
 
+<hr/>
+
 Requirements:
 
 * Python 3.x
 
 * NumPy library
 
+<hr/>
+
 Installation:
 
 To use this program, ensure you have Python installed. You also need the NumPy library, which you can install using: pip install numpy
+
+<hr/>
 
 Usage:
 
@@ -41,6 +49,8 @@ Usage:
 4. The selected operation will be performed, and the result will be displayed.
 
 5. To exit, select option 7.
+
+<hr/>
 
 Example Execution:
 
@@ -59,6 +69,8 @@ Enter the option to proceed: 1
 
 The mean of the array is: 5.0
 
+<hr/>
+
 Code Explanation:
 
 * basic_stat_calculator(data): Main function that processes user input and performs calculations.
@@ -74,6 +86,8 @@ Code Explanation:
 4. standard_deviation(): Computes standard deviation using np.std().
 
 5. sort(): Sorts the dataset using np.sort().
+
+<hr/>
 
 * Loop-based Menu System:
 
